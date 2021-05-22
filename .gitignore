@@ -2,4 +2,4 @@
 **/__pycache__*
 
 # Ignore Python Notebooks
-**.ipynb_checkpoints/**
+**/.ipynb_checkpoints/**
